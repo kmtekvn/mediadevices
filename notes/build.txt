@@ -1,0 +1,4 @@
+env GOOS=linux GOARCH=arm GOARM=7 go build -o webrtc_arm main.go
+
+
+env GOOS=linux GOARCH=arm GOARM=7 go get -u github.com/pion/mediadevices
