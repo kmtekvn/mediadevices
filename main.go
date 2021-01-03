@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/pion/mediadevices"
-	"github.com/pion/mediadevices/examples/internal/signal"
+	//"github.com/pion/mediadevices/examples/internal/signal"
 	"github.com/pion/mediadevices/pkg/frame"
 	"github.com/pion/mediadevices/pkg/prop"
 	"github.com/pion/webrtc/v3"
