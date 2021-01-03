@@ -3,11 +3,11 @@ package camera
 import (
 	"image"
 
-	"github.com/pion/mediadevices/pkg/avfoundation"
-	"github.com/pion/mediadevices/pkg/driver"
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/kmtekvn/mediadevices/pkg/avfoundation"
+	"github.com/kmtekvn/mediadevices/pkg/driver"
+	"github.com/kmtekvn/mediadevices/pkg/frame"
+	"github.com/kmtekvn/mediadevices/pkg/io/video"
+	"github.com/kmtekvn/mediadevices/pkg/prop"
 )
 
 type camera struct {

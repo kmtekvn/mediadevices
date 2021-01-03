@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pion/mediadevices/pkg/frame"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/kmtekvn/mediadevices/pkg/frame"
+	"github.com/kmtekvn/mediadevices/pkg/prop"
 )
 
 func BenchmarkRead(b *testing.B) {

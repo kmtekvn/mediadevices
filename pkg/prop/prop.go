@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pion/mediadevices/pkg/frame"
+	"github.com/kmtekvn/mediadevices/pkg/frame"
 )
 
 // MediaConstraints represents set of media propaty constraints.

@@ -7,8 +7,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/codec/x264"
-	"github.com/pion/mediadevices/pkg/frame"
+	"github.com/kmtekvn/mediadevices/pkg/codec/x264"
+	"github.com/kmtekvn/mediadevices/pkg/frame"
 )
 
 type mockVideoSource struct {

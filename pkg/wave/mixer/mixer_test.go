@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pion/mediadevices/pkg/wave"
+	"github.com/kmtekvn/mediadevices/pkg/wave"
 )
 
 func TestMonoMixer(t *testing.T) {

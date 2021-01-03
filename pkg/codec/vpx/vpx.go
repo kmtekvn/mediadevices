@@ -55,9 +55,9 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/kmtekvn/mediadevices/pkg/codec"
+	"github.com/kmtekvn/mediadevices/pkg/io/video"
+	"github.com/kmtekvn/mediadevices/pkg/prop"
 )
 
 type encoder struct {

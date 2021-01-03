@@ -2,7 +2,7 @@ package prop
 
 import (
 	"fmt"
-	"github.com/pion/mediadevices/pkg/frame"
+	"github.com/kmtekvn/mediadevices/pkg/frame"
 	"strings"
 )
 

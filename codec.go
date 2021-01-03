@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/pion/mediadevices/pkg/codec"
-	"github.com/pion/mediadevices/pkg/io/audio"
-	"github.com/pion/mediadevices/pkg/io/video"
-	"github.com/pion/mediadevices/pkg/prop"
+	"github.com/kmtekvn/mediadevices/pkg/codec"
+	"github.com/kmtekvn/mediadevices/pkg/io/audio"
+	"github.com/kmtekvn/mediadevices/pkg/io/video"
+	"github.com/kmtekvn/mediadevices/pkg/prop"
 	"github.com/pion/webrtc/v3"
 )
 
